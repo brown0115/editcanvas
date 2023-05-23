@@ -1,4 +1,4 @@
-# Canvas2PDF 
+# Edit PDF via Canas (Remove section with blank area)
 
 Canvas2PDF exports your HTML canvas as PDF using JavaScript. Note that this library generates actual PDF drawing calls to create a PDF with vector graphics, unlike some alternate libraries which rasterize your canvas and place it as an image in your PDF.
 
